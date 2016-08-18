@@ -8,7 +8,7 @@ a known flaw: it does not consider ties on gold
 
 a sample output:
 
-County  dominate count  sport
+Country  dominate count  sport
 
 USA 3 , Artistic Gymnastics, Athletics, Swimming
 NED 3 , Cycling Road, Marathon Swimming, Sailing
